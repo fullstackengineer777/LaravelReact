@@ -19,4 +19,6 @@ An error can occour if you follow the instructions for the confliction of Larave
 5. npm run dev <br/>
 6. php artisan serve <br/>
 
+# Running Screens
+
 # How to combine Laravel and React. (Tutorial)
