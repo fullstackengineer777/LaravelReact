@@ -46,3 +46,5 @@ https://webmobtuts.com/frontend-development/laravel-sanctum-authentication-in-re
   - npm install
   - npm install react-router-dom@6
   - npm run dev
+  - php artisan serve
+  - 
