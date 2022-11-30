@@ -21,7 +21,9 @@ https://webmobtuts.com/frontend-development/laravel-sanctum-authentication-in-re
 6. php artisan serve <br/>
 
 # Running Screens
-
+![Register Screen ](00.png)
+![Login Screen ](01.png)
+![Cookies after login Screen ](02.png)
 # How to combine Laravel and React. (Tutorial)
 
 1. composer create-project laravel/laravel:8.x.x lara_react_auth --prefer-dist
